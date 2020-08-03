@@ -66,3 +66,4 @@ function writeStock(x)
     Food:x
   })
 }
+ 
